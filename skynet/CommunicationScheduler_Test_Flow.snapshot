@@ -787,7 +787,7 @@
             "compression-format" : "NONE",
             "esql-output-batch-size" : "0",
             "esql-fetch-size" : "0",
-            "SQL select query" : "Select * from customers",
+            "SQL select query" : "Select * from campaigns",
             "dbf-normalize" : "false"
           },
           "propertyDescriptors" : {
