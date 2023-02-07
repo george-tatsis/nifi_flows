@@ -119,8 +119,8 @@
           "backPressureDataSizeThreshold" : "1 GB",
           "backPressureObjectThreshold" : 10000,
           "bends" : [ {
-            "x" : -3232.0,
-            "y" : -856.0
+            "x" : -3656.0,
+            "y" : -752.0
           } ],
           "componentType" : "CONNECTION",
           "destination" : {
@@ -361,7 +361,7 @@
           "name" : "UserWithSergments",
           "penaltyDuration" : "30 sec",
           "position" : {
-            "x" : -4184.0,
+            "x" : -4744.0,
             "y" : -696.0
           },
           "properties" : {
@@ -445,8 +445,8 @@
           "name" : "JoltTransformJSON",
           "penaltyDuration" : "30 sec",
           "position" : {
-            "x" : -3778.173507150038,
-            "y" : -948.6602529818235
+            "x" : -4160.0,
+            "y" : -688.0
           },
           "properties" : {
             "jolt-spec" : "[{\n  \"operation\": \"default\",\n  \"spec\": {\n    \"*\": {\n      \"hi\": \"UserWithSegmentsInfo\"\n    }\n  }\n}]",
@@ -525,7 +525,7 @@
           "name" : "LogMessage",
           "penaltyDuration" : "30 sec",
           "position" : {
-            "x" : -2952.0,
+            "x" : -2992.0,
             "y" : -696.0
           },
           "properties" : {
@@ -763,8 +763,8 @@
           "name" : "UserWithCampaign",
           "penaltyDuration" : "30 sec",
           "position" : {
-            "x" : -3592.0,
-            "y" : -400.0
+            "x" : -3576.0,
+            "y" : -488.0
           },
           "properties" : {
             "character-set" : "UTF-8",
