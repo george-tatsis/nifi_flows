@@ -639,12 +639,12 @@
           "name" : "ExecuteScript",
           "penaltyDuration" : "30 sec",
           "position" : {
-            "x" : -4271.362307884296,
-            "y" : -274.41896181456434
+            "x" : -4272.0,
+            "y" : -272.0
           },
           "properties" : {
             "Script Engine" : "python",
-            "Script Body" : "flowfile = session.get()"
+            "Script Body" : "flowfile = session.get()\nprint(\"Hello World!\")"
           },
           "propertyDescriptors" : {
             "Script File" : {
